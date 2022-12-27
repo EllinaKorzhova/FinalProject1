@@ -1,0 +1,15 @@
+/Users/ellinakorzova/Desktop/ДЗ по С#/FinalProject/obj/Debug/net7.0/FinalProject.csproj.AssemblyReference.cache
+/Users/ellinakorzova/Desktop/ДЗ по С#/FinalProject/obj/Debug/net7.0/FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ellinakorzova/Desktop/ДЗ по С#/FinalProject/obj/Debug/net7.0/FinalProject.AssemblyInfoInputs.cache
+/Users/ellinakorzova/Desktop/ДЗ по С#/FinalProject/obj/Debug/net7.0/FinalProject.AssemblyInfo.cs
+/Users/ellinakorzova/Desktop/ДЗ по С#/FinalProject/obj/Debug/net7.0/FinalProject.csproj.CoreCompileInputs.cache
+/Users/ellinakorzova/Desktop/ДЗ по С#/FinalProject/bin/Debug/net7.0/FinalProject
+/Users/ellinakorzova/Desktop/ДЗ по С#/FinalProject/bin/Debug/net7.0/FinalProject.deps.json
+/Users/ellinakorzova/Desktop/ДЗ по С#/FinalProject/bin/Debug/net7.0/FinalProject.runtimeconfig.json
+/Users/ellinakorzova/Desktop/ДЗ по С#/FinalProject/bin/Debug/net7.0/FinalProject.dll
+/Users/ellinakorzova/Desktop/ДЗ по С#/FinalProject/bin/Debug/net7.0/FinalProject.pdb
+/Users/ellinakorzova/Desktop/ДЗ по С#/FinalProject/obj/Debug/net7.0/FinalProject.dll
+/Users/ellinakorzova/Desktop/ДЗ по С#/FinalProject/obj/Debug/net7.0/refint/FinalProject.dll
+/Users/ellinakorzova/Desktop/ДЗ по С#/FinalProject/obj/Debug/net7.0/FinalProject.pdb
+/Users/ellinakorzova/Desktop/ДЗ по С#/FinalProject/obj/Debug/net7.0/FinalProject.genruntimeconfig.cache
+/Users/ellinakorzova/Desktop/ДЗ по С#/FinalProject/obj/Debug/net7.0/ref/FinalProject.dll
